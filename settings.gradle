@@ -1,0 +1,2 @@
+rootProject.name = "Sesion2"
+include ':app'

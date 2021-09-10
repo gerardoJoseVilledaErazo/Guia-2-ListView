@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sesion2</string>
+    <string name="Add">Agregar nombre</string>
+    <string name="ViewList">Ver lista</string>
+    <string name="MyData">Mis Datos</string>
+    <string name="Name">Ingresar nombre:</string>
+    <string name="Save">Guardar</string>
+    <string name="Cancel">Limpiar</string>
+    <string name="MyName">Gerardo José Villeda Erazo</string>
+    <string name="MyCode">VE16I04001</string>
+</resources>
